@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there!%20I'm%20Elkyat%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=👋Bienvenido!%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 👨‍💻 Acerca de mi
