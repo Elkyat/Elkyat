@@ -5,7 +5,13 @@
 
 ## 👨‍💻 Acerca de mi
 📌 Estudiante de **Desarrollo de Software**  
-📌 Aprendo y disfruto mucho de **JavaScript**  
+📌 Apasionado por el ecosistema **JavaScript** y el desarrollo web moderno  
+📌 Me gusta aprender cosas nuevas, experimentar y compartir lo que descubro  
+
+🌱 Actualmente explorando **backend con Node.js** y bases de datos  
+🎯 Objetivo: crecer como desarrollador fullstack y trabajar en proyectos reales 
+
+---
 
 ## 🛠️ Skills
 <p align="center">
@@ -16,9 +22,7 @@
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<p align="center">
-  Me gusta aprender cosas nuevas, programar y ver qué puedo crear con lo que voy descubriendo.
-</p>
+---
 
 ## 📊 Mis stats
 <p align="center">
@@ -26,10 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkyat&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-## 📫 Contacto
+---
+
+## 🤝 Conectemos
 <p align="center">
   <a href="https://www.linkedin.com/in/augusto-gaite-338a5a317/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:augugaite@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
