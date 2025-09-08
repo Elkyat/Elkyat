@@ -4,22 +4,20 @@
 </p>
 
 ## 👨‍💻 Acerca de mi
-- 🔭 Estudiante de Desarrollo de Software
-- 🌱 Disfruto y aprendo sobre **JavaScript y Python**
+- 📖 Estudiante de Desarrollo de Software
+- 🌱 Aprendo y disfruto mucho sobre **JavaScript**
 
-## 🛠️ Lenguajes & Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,vscode,git,github" />
-</p>
-
-## 📊 GitHub Stats
+## 📊 Mis stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elkyat&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elkyat&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Elkyat&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkyat&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/augusto-gaite-338a5a317/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+## 📫 Contacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/augusto-gaite-338a5a317/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <!-- Footer -->
