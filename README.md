@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=👋Bienvenido!%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <em>"Construyendo software, una línea a la vez 🛠️💻"</em>
-</p>
-
 ## 👨‍💻 Acerca de mi
 📌 Estudiante de **Desarrollo de Software**  
 📌 Aprendo y disfruto mucho de **JavaScript**  
