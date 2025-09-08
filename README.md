@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there!%20I'm%20Elkyat%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 Acerca de mi
 - 🔭 Estudiante de Desarrollo de Software
 - 🌱 Disfruto y aprendo sobre **JavaScript y Python**
 
-## 🛠️ Languages & Tools
+## 🛠️ Lenguajes & Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,vscode,git,github" />
 </p>
 
 ## 📊 GitHub Stats
@@ -18,10 +18,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elkyat&theme=tokyonight" height="160"/>
 </p>
 
-## 🌐 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/augusto-gaite-338a5a317/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- Footer -->
