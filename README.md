@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,nodejs,mysql,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,vscode,git,github" />
 </p>
 
 ## 📊 GitHub Stats
